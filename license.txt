@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barriomambo scene clip
+* source:	https://sketchfab.com/3d-models/barriomambo-scene-clip-1c47630bf1fa46ae8eff0ed10de9c4c1
+* author:	Gabriel Gonzalez (https://sketchfab.com/gabrielgonzalezdm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barriomambo scene clip" (https://sketchfab.com/3d-models/barriomambo-scene-clip-1c47630bf1fa46ae8eff0ed10de9c4c1) by Gabriel Gonzalez (https://sketchfab.com/gabrielgonzalezdm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
